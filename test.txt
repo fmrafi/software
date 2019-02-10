@@ -1,0 +1,8 @@
+Teacher name:SONIA
+ID:5
+Course:CSE
+Student name:MASUD
+ID:2
+Mark:2.3
+Officer name:TANJILA
+ID:7
